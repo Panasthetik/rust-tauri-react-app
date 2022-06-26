@@ -8,6 +8,12 @@ Clone the repository.
 
 ```yarn```     
 
+```cd src-tauri```    
+
+```cargo build```    
+
+```cd ../```
+
 ```yarn tauri build```     
 
 Drag the completed app to your applications folder.   
